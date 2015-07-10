@@ -36,7 +36,7 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public void learnGit()
     {
         assertTrue( true );
     }
